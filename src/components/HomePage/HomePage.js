@@ -72,7 +72,7 @@ function HomePage(){
 
                             <div className="flex group items-center">
                                 <FaChevronRight className='w-2 h-2 group-hover:w-4 group-hover:h-4 invisible -ml-2 group-hover:ml-0 group-hover:visible duration-200'/>
-                                <a href="https://linktr.ee/surafelkindu" 
+                                <a href="https://linktr.ee/jo_abera" 
                                 className="px-4 py-2 rounded-full font-roboto text-white text-md bg-darker-2 group-hover:bg-white ml-0 group-hover:ml-2 group-hover:text-orange-dark duration-200">
                                     My Socials
                                 </a>
