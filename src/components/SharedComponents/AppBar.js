@@ -26,8 +26,7 @@ function AppBar({scrolldown, scrollZero}){
 
             <div className="flex grow w-full items-center justify-between md:gap-4">
                 <div className="text-orange-dark font-roboto font-bold text-3xl flex flex-col"> 
-                    <div className="flex md:hidden"> CJ. </div>
-                    <div className="hidden md:flex"> Yohannes Abera </div>
+                    <div className="flex"> Yohannes Abera </div>
                     {/* <div className="text-stone-400 font-roboto text-sm font-normal"> You can call me CJ </div> */}
                 </div>
                 {openSide && (
