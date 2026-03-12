@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-import { FiUser, FiCode, FiGithub, FiAward, FiPhone, FiAlignJustify, FiX } from "react-icons/fi";
+import { FiUser, FiCode, FiPhone, FiAlignJustify, FiX } from "react-icons/fi";
 
   const menus = [
     {id:1, name:'About', url:'about', icon: <FiUser/>},

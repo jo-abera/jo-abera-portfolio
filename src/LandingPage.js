@@ -1,5 +1,5 @@
 import React, {useEffect, useState, useContext} from 'react';
-import { AppBar, HomePage, Work, Contact, Experience, Certification, ResumeButton } from './components';
+import { AppBar, HomePage, Work, Contact, ResumeButton } from './components';
 
 import { FaGithub, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { UserContext } from './contexts/UserContext';
