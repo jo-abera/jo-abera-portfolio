@@ -1,0 +1,152 @@
+{
+    "works": [
+        {
+            "id": 0,
+            "image": "securicom.png",
+            "name": "Securicom PLC",
+            "shortName": "Securicom",
+            "title": "Mobile Front-End Developer",
+            "link": "https://africrowds.netlify.app/",
+            "from": "September 2022",
+            "to": "Present",
+            "desc": "I am developing a mobile applications for an online auction system.",
+            "details": "Worked as a front-end mobile application developer and UI/UX designer on this project. Developing front-end using Expo, JavaScript, React Native, and Tailwindcss.",
+            "techs": [
+                "VS Code",
+                "Git",
+                "Trello",
+                "Figma"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"
+            ],
+            "source": "https://github.com/Equb4Startups/equb_4_startups_website"
+        },
+        {
+            "id": 1,
+            "image": "lomi3.png",
+            "name": "Lomi Fund",
+            "shortName": "Lomi Fund",
+            "title": "Fullstack Developer",
+            "link": "https://www.gdgaddis.dev/team",
+            "from": "Sep 2018",
+            "to": "Present",
+            "desc": "A mobile application for digitizing charity and funding.",
+            "details": "Lomi mobile and web applications will help solve the problem of fundraising in Ethiopia and help more than 500,000 people in need through urgent fundraising with many different causes. I worked as a full-stack mobile and web application developer and UI/UX designer on this project. Developing front-end using React, Expo, JavaScript, React Native, Tailwindcss, and some custom CSS. Developing back-end using Node.js, Express.js, and MongoDB.",
+            "techs": [
+                "Reactjs",
+                "React Native",
+                "Node.js",
+                "Express.js",
+                "JavaScript",
+                "Redux"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"
+            ],
+            "source": ""
+        },
+        {
+            "id": 2,
+            "image": "africrowds.webp",
+            "name": "Africrowds",
+            "shortName": "Africrowds",
+            "title": "Web Front-End Developer",
+            "link": "https://africrowds.netlify.app/",
+            "from": "December 2021",
+            "to": "June 2022",
+            "desc": "I developed a crow funding platform for startups in Africa. The platform is estimated to help more than 50 startups get funding.",
+            "details": "Fundraising by African startups has reached $5 billion in 2021. This platform is aimed to double this figure by the end of 2023 by digitizing the funding process. I worked as a full-stack web developer and UI/UX designer on this project. I was responsible for debugging and adding features to the already developed back-end using Node.js, Express.js, and JWT for user authentication. I also developed a web interface using React, and Tailwindcss.",
+            "techs": [
+                "Reactjs",
+                "Material UI"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg"
+            ],
+            "source": "https://github.com/Equb4Startups/equb_4_startups_website"
+        },
+        {
+            "id": 3,
+            "image": "equbapp.webp",
+            "name": "EQUB Financial Technologies",
+            "shortName": "Equb",
+            "title": "Senior Front-End Developer",
+            "link": "https://www.equb.app/",
+            "from": "March 2021",
+            "to": "April 2022",
+            "desc": "Working to bring the traditional Ethiopian saving system (EQUB) to the mobile and web world. I am using Flutter to develop both web and mobile applications.",
+            "details": "Equb app is an alternative means to achieve saving and improve access to credit by rotation of savings. I worked as a front-end mobile application developer and UI/UX designer on this project. I developed the mobile application using Dart, Flutter, and Material UI.",
+            "techs": [
+                "Flutter",
+                "Firebase"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"
+            ],
+            "source": "https://github.com/equbapp/equb_app"
+        },
+        {
+            "id": 4,
+            "image": "chapa.webp",
+            "name": "Chapa",
+            "shortName": "Chapa",
+            "title": "Front-End Developer & UI/UX Designer",
+            "link": "https://chapa.co/",
+            "from": "Dec 2021",
+            "to": "April 2022",
+            "desc": "A Fintech startup working to bring a better digital payment system for the developers and service places in Ethiopia. I used Reactjs and ReactNative while working in this company.",
+            "details": "A Fintech startup working to bring a better digital payment system for the developers and service places in Ethiopia. I used Reactjs and ReactNative while working in this company.",
+            "techs": [
+                "Reactjs",
+                "Material UI",
+                "Firebase",
+                "Adobe XD"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg"
+            ],
+            "source": "https://github.com/Surafeljava/andu_portfolio"
+        },
+        
+        {
+            "id": 5,
+            "image": "tebesa2.png",
+            "name": "Tebesa Dating",
+            "shortName": "TebesaDating",
+            "title": "Mobile Application Developer",
+            "link": "https://play.google.com/store/apps/details?id=com.tebesa.dating",
+            "from": "Jul 2020",
+            "to": "Aug 2021",
+            "desc": "Tebesa Dating is a dating application for the Ethiopian community who are living abroad.",
+            "details": "Tebesa Dating is a dating application for the Ethiopian community who are living abroad.",
+            "techs": [
+                "Flutter",
+                "Firebase",
+                "Adobe XD"
+            ],
+            "tech_icons":[
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg"
+            ],
+            "source": "https://github.com/Surafeljava/tebesaDating"
+        }
+    ]
+}

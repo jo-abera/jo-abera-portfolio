@@ -1,0 +1,57 @@
+{
+    "otherworks": [
+        {
+            "id":0,
+            "title": "Piassa Dating Mobile Application",
+            "description": "A dating mobile application with more than 1,000 active users.",
+            "link": "https://play.google.com/store/apps/details?id=com.piassa",
+            "github": "https://github.com/Surafeljava/piassa_date",
+            "techs": [
+                "Flutter",
+                "Firebase"
+            ]
+        },
+        {
+            "id":1,
+            "title": "Amharic Sentiment Analysis Hate Speech Detection System",
+            "description": "The scope of this project is limited to the presence or absence of hate speech on Amharic language Twitter posts. In this...",
+            "link": "/amh-nlp",
+            "github": "https://github.com/Amharic-Sentiment-Analysis/Amharic-Sentiment-Analysis-Frontend",
+            "techs": [
+                "Reactjs",
+                "Material UI",
+                "Node.js",
+                "Express",
+                "Tensorflow",
+                "Keras",
+                "Flask"
+            ]
+        },
+        {
+            "id":2,
+            "title": "YNCCC Paper Collectors Mobile Application",
+            "description": "Youth Negotiations on Climate Change Conventions (YNCCC) - paper recycling mobile application for YNCCC members.",
+            "link": "https://play.google.com/store/apps/details?id=com.ynccc.collector.app",
+            "github": "https://github.com/Surafeljava/yncccPaperCollectorApp",
+            "techs": [
+                "Flutter",
+                "Firebase",
+                "Adobe XD"
+            ]
+        },
+        {
+            "id":3,
+            "title": "Tikus Events Mobile Application (in-progress)",
+            "description": "Event posting and registering app. Users Login and Create their profile, they can Create, Update, Delete events...",
+            "link": "https://github.com/Surafeljava/tikus-events",
+            "github": "https://github.com/Surafeljava/tikus_events_api",
+            "techs": [
+                "Flutter",
+                "Flask",
+                "Postgre-SQL",
+                "Adobe XD"
+            ]
+        }
+        
+    ]
+}

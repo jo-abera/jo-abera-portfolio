@@ -1,0 +1,48 @@
+{
+    "certificates": [
+        {
+            "name": "DeepLearning.AI TensorFlow Developer Specialization",
+            "org": ["Coursera","DeepLearning.AI"],
+            "date": "August 2022",
+            "id": "8LDRVMWTKQ4J",
+            "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/8LDRVMWTKQ4J",
+            "techs": [
+                "Tensorflow",
+                "Computer Vision", "RNN", "LSTM", "CNN", "NLP" 
+            ]
+        },
+        {
+            "name": "Introduction to Cloud Computing",
+            "org": ["Coursera", "IBM"],
+            "date": "August 2022",
+            "id": "QETPH9JWTDAN",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/QETPH9JWTDAN",
+            "techs": [
+                "Cloud Native",
+                "Devops", "Hybrid Multicloud", "IBM Cloud"
+            ]
+        },
+        {
+            "name": "React (Basic)",
+            "org": ["HackerRank"],
+            "date": "August 2022",
+            "id": "124cecc26769",
+            "link": "https://www.hackerrank.com/certificates/124cecc26769",
+            "techs": [
+                "React" 
+            ]
+        },
+        {
+            "name": "Convolutional Neural Networks in TensorFlow",
+            "org": ["Coursera", "DeepLearning.AI"],
+            "date": "August 2022",
+            "id": "3UX6EAR96Z8R",
+            "link": "https://www.coursera.org/account/accomplishments/certificate/3UX6EAR96Z8R",
+            "techs": [
+                "Tensorflow",
+                "Inductive Transfer", "Augmentation", "Dropouts", "Machine Learning"
+            ]
+        }
+        
+    ]
+}
