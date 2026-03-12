@@ -34,7 +34,7 @@ function HomePage(){
                         className="w-40 md:w-64 h-40 md:h-64 bg-white rounded-full hover:cursor-pointer object-cover border-4 md:border-8 hover:border-4 duration-200 border-white" />
                         <p className="text-2xl md:text-3xl text-slate-500 font-roboto font-normal tracking-widest mx-0 pt-4 mb-2">👋 Hi, I'm </p>
                         <div className='group flex flex-col items-center'>
-                            <a href="https://www.linkedin.com/in/surafelk/"  
+                            <a href="https://www.linkedin.com/in/jo-abera/"  
                             className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-roboto font-bold group-hover:text-orange-dark duration-300 text-center uppercase">
                                 {`${myData?.fullname}`}
                             </a>

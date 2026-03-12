@@ -45,7 +45,7 @@ function LandingPage() {
 
   return (
     <div onScroll={onScroll} className="flex flex-col bg-light-1 px-4 md:px-20 items-center scroll-smooth gap-6">
-      <div className="flex flex-col w-full items-center justify-center md:min-h-screen px-0 md:px-12 pt-24 md:pt-4">
+      <div className="flex flex-col w-full items-center justify-center md:min-h-screen px-0 md:px-12 pt-36 md:pt-28">
         <AppBar scrolldown={!scrollUp} scrollZero={scrollZero}/>
         <ResumeButton/>
         <HomePage/>
@@ -57,18 +57,18 @@ function LandingPage() {
       
       <div className='flex flex-col items-center'>
         <div className="flex flex-col md:flex-row justify-center items-center gap-2 md:gap-6">
-          <a className="text-md text-darker-2 font-medium" href='mailto:surafel.mulaw@gmail.com'>
-            {`surafelkindu01@gmail.com`}
+          <a className="text-md text-darker-2 font-medium" href='mailto:johannesab0939@gmail.com'>
+            {`johannesab0939@gmail.com`}
           </a>
           <div className="text-md text-darker-2 font-medium">
-            {`+2519 86 214 242`}
+            {`+251-930-648-418`}
           </div>
           <div className="text-md text-darker-2 font-medium">
-            {`Eritrea St. ${myData?.location}`}
+            {` ${myData?.location}, Ethiopia`}
           </div>
         </div>
         <div className="text-darker-2 flex justify-center mb-6 mt-2 text-md">
-          Made with ❤ by <a href={`${myData?.github}`} className="ml-2 text-red-600 font-medium"> Surafel Kindu</a>
+          Made with ❤ by <a href={`${myData?.github}`} className="ml-2 text-red-600 font-medium">Yohannes Abera</a>
           </div>
       </div>
 

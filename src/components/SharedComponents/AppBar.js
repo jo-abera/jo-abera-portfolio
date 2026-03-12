@@ -4,9 +4,9 @@ import { FiUser, FiCode, FiGithub, FiAward, FiPhone, FiAlignJustify, FiX } from 
 
   const menus = [
     {id:1, name:'About', url:'about', icon: <FiUser/>},
-    {id:3, name:'Work', url:'work', icon: <FiCode/>}, 
-    {id:2, name:'Projects', url:'projects', icon: <FiGithub/>},
-    {id:2, name:'Certificates', url:'certificates', icon: <FiAward/>},
+    {id:3, name:'Projects', url:'work', icon: <FiCode/>}, 
+    // {id:2, name:'Projects', url:'projects', icon: <FiGithub/>},
+    // {id:2, name:'Certificates', url:'certificates', icon: <FiAward/>},
     {id:4, name:'Contact', url:'contact', icon: <FiPhone/>}
 ]
 
@@ -29,7 +29,7 @@ function AppBar({scrolldown, scrollZero}){
             <div className="flex grow w-full items-center justify-between md:gap-4">
                 <div className="text-orange-dark font-roboto font-bold text-3xl flex flex-col"> 
                     <div className="flex md:hidden"> CJ. </div>
-                    <div className="hidden md:flex"> SURAFEL KINDU </div>
+                    <div className="hidden md:flex"> Yohannes Abera </div>
                     {/* <div className="text-stone-400 font-roboto text-sm font-normal"> You can call me CJ </div> */}
                 </div>
                 {openSide && (
