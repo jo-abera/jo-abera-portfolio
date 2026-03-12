@@ -51,8 +51,8 @@ function LandingPage() {
         <HomePage/>
       </div>
       <Work/>
-      <Experience/>
-      <Certification/>
+      {/* <Experience/> */}
+       {/*<Certification/>*/}
       <Contact/>
       
       <div className='flex flex-col items-center'>
@@ -97,7 +97,7 @@ function LandingPage() {
 
       <div className="hidden md:flex fixed z-0 bottom-0 right-0 flex-col justify-center items-center px-2 py-4 min-h-screen">
         <div className="grow"></div>
-        <div className="rounded-full text-slate-500 rotate-90 font-roboto font-bold text-xl tracking-widest"> 2023 </div>
+        <div className="rounded-full text-slate-500 rotate-90 font-roboto font-bold text-xl tracking-widest"> 2026 </div>
         <div className="grow w-0.5 h-full invisible md:visible bg-red-500 mt-10 bg-gradient-to-t from-light-1 to-slate-500 opacity-50 rounded-full"></div>
       </div>
 

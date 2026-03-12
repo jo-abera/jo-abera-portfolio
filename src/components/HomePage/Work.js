@@ -30,7 +30,7 @@ function Work(){
                     <div className='h-0.5 flex-grow bg-gradient-to-l from-darker-2 to-light-1'></div>
                     <div className='h-2 w-2 md:h-3 md:w-3 bg-darker-2 rotate-45'></div>
                     <div className="font-bold text-3xl md:text-5xl text-darker-2 mx-3 md:mx-6">
-                        Personal Projects
+                        Work Experiences
                     </div>
                     <div className='h-2 w-2 md:h-3 md:w-3 bg-darker-2 rotate-45'></div>
                     <div className='h-0.5 flex-grow bg-gradient-to-r from-darker-2 to-light-1'></div>
