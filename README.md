@@ -1,8 +1,6 @@
 # Yohannes Abera Portfolio
 
-- My work experience
+- Personal projects & works
 - Skills
-- Personal projects
-- Certificates
 - Resume
 - Contact information
