@@ -5,8 +5,6 @@ import { FiUser, FiCode, FiGithub, FiAward, FiPhone, FiAlignJustify, FiX } from 
   const menus = [
     {id:1, name:'About', url:'about', icon: <FiUser/>},
     {id:3, name:'Projects', url:'work', icon: <FiCode/>}, 
-    // {id:2, name:'Projects', url:'projects', icon: <FiGithub/>},
-    // {id:2, name:'Certificates', url:'certificates', icon: <FiAward/>},
     {id:4, name:'Contact', url:'contact', icon: <FiPhone/>}
 ]
 

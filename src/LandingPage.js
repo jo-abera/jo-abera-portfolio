@@ -51,8 +51,7 @@ function LandingPage() {
         <HomePage/>
       </div>
       <Work/>
-      {/* <Experience/> */}
-       {/*<Certification/>*/}
+     
       <Contact/>
       
       <div className='flex flex-col items-center'>
